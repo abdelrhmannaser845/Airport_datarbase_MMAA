@@ -32,8 +32,4 @@ This repository contains the database for an airport management system, with a d
 
 - [Mohamed Khaled](https://github.com/Mohamed-khaled88)
 <!-- ALL-CONTRIBUTORS-LIST:START -->
-Polymath000
-Anubisx404
-Mohamed-khaled88
-abdelrhmannaser845
 <!-- ALL-CONTRIBUTORS-LIST:END -->
