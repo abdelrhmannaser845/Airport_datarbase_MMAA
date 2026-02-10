@@ -1,0 +1,11 @@
+plane_id,capacity,weight,model,status,airline_icao,hanger_no,brand
+1,853,560000,A380-8,D,UAE,3,airbus
+2,240,90000,A321ne,A,DLH,4,airbus
+3,406,242000,A330,A,THY,5,airbus
+4,480,322000,A350-9,A,AFR,6,airbus
+5,190,78000,A320,A,RJA,7,airbus
+6,550,351000,777-30,A,MSR,8,boeing
+7,440,247200,777-20,A,SVA,9,boeing
+8,254,127900,787-8,A,QTR,10,boeing
+9,150,75500,316-14,A,TAR,12,airbus
+10,190,78000,A320,A,SWR,11,airbus
